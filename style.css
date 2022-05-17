@@ -85,7 +85,7 @@ nav a:hover {
 }
 
 #home .filter{
-	background: url('/images/photo-1650619540877-e13d27064f0c.avif') no-repeat;
+	background: url('images/photo-1650619540877-e13d27064f0c.avif') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -179,7 +179,7 @@ h1{
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('/images/45bd3de3-790b-4467-9bfd-319d70f9efc3.jpg');
+    background-image: url('images/45bd3de3-790b-4467-9bfd-319d70f9efc3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -236,7 +236,7 @@ h4 {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('/images/treibhauseffekt-colourboxde-181108.jpg');
+    background-image: url('images/treibhauseffekt-colourboxde-181108.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -275,7 +275,7 @@ h4 {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('/images/12_Thesen.jpg');
+    background-image: url('images/12_Thesen.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
